@@ -1,0 +1,14 @@
+# Dataset: RIM-ONE DL licence does not allow redistribution; fetch_data.py downloads it
+/data
+# Virtual environments and caches
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+.DS_Store
